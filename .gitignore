@@ -1,0 +1,9 @@
+# Local Ollama models and data
+.ollama/
+models/
+*.gguf
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
